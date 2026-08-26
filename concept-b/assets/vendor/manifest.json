@@ -1,0 +1,147 @@
+{
+  "hdr": [
+    {
+      "name": "machine_shop_02_2k",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/machine_shop_02_2k.hdr",
+      "license": "CC0",
+      "source": "Poly Haven"
+    },
+    {
+      "name": "studio_small_03_2k",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/studio_small_03_2k.hdr",
+      "license": "CC0",
+      "source": "Poly Haven"
+    }
+  ],
+  "textures": [
+    {
+      "name": "Concrete034",
+      "url": "https://ambientcg.com/get?file=Concrete034_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "Metal009",
+      "url": "https://ambientcg.com/get?file=Metal009_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "Metal063",
+      "url": "https://ambientcg.com/get?file=Metal063_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "MetalPlates001",
+      "url": "https://ambientcg.com/get?file=MetalPlates001_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "PaintedMetal004",
+      "url": "https://ambientcg.com/get?file=PaintedMetal004_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "Sticker001",
+      "url": "https://ambientcg.com/get?file=Sticker001_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "MetalWalkway013",
+      "url": "https://ambientcg.com/get?file=MetalWalkway013_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "CorrugatedSteel009",
+      "url": "https://ambientcg.com/get?file=CorrugatedSteel009_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "DiamondPlate008C",
+      "url": "https://ambientcg.com/get?file=DiamondPlate008C_2K-JPG.zip",
+      "license": "CC0",
+      "source": "ambientCG",
+      "maps": [
+        "color",
+        "roughness",
+        "metalness",
+        "normalgl",
+        "ambientocclusion"
+      ]
+    },
+    {
+      "name": "blue_metal_plate",
+      "url": "https://polyhaven.com/a/blue_metal_plate",
+      "license": "CC0",
+      "source": "Poly Haven",
+      "maps": [
+        "diff",
+        "nor_gl",
+        "rough",
+        "metal",
+        "ao"
+      ]
+    }
+  ]
+}
