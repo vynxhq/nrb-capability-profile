@@ -143,5 +143,63 @@
         "ao"
       ]
     }
+  ],
+  "models": [
+    {
+      "slug": "lathe",
+      "uid": "eb9675abf3594d17b9a3d3729844c3c1",
+      "name": "Industrial Lathe",
+      "author": "Jamie Plowman",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/eb9675abf3594d17b9a3d3729844c3c1"
+    },
+    {
+      "slug": "hydro-press",
+      "uid": "8f4bd0b60353408d8b598a1de458f4b0",
+      "name": "Electric Hydro Press",
+      "author": "bluoppVR",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/8f4bd0b60353408d8b598a1de458f4b0"
+    },
+    {
+      "slug": "gauge",
+      "uid": "47c5a905482e45f4a9ee5b5ba32e8613",
+      "name": "Pressure Gauge Animated",
+      "author": "Insane Ninja",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/47c5a905482e45f4a9ee5b5ba32e8613"
+    },
+    {
+      "slug": "dial-indicator",
+      "uid": "259bf02ed7c343978335b19d578f58cb",
+      "name": "DIAL INDICATOR",
+      "author": "Achmadi 2209",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/259bf02ed7c343978335b19d578f58cb"
+    },
+    {
+      "slug": "caliper",
+      "uid": "205ebdec7304449bb8d2effbfe272ec8",
+      "name": "VernierCaliper",
+      "author": "kg007",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/205ebdec7304449bb8d2effbfe272ec8"
+    },
+    {
+      "slug": "industrial-pack",
+      "uid": "0edba07309ef4ff98e5bb4d0b858952c",
+      "name": "Industrial Asset Pack",
+      "author": "vmatthew",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/0edba07309ef4ff98e5bb4d0b858952c"
+    },
+    {
+      "slug": "factory-assets",
+      "uid": "c6a0b51f52934a739fae43d734d099ec",
+      "name": "Random Factory Assets HD",
+      "author": "lumoize",
+      "license": "CC Attribution",
+      "licenseUrl": "https://sketchfab.com/3d-models/c6a0b51f52934a739fae43d734d099ec"
+    }
   ]
 }
